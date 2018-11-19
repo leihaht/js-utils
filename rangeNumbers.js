@@ -4,6 +4,7 @@
  * to: ending
  * step: steps between, default: 1
  *
+ * ES6 JavaScript
  */
 
 // '~~' is Alternative for Math.floor()
